@@ -110,7 +110,8 @@ Choose movie → Choose showtime → Choose seats → Confirm → Booking saved 
 
 ## 📸 Screenshots
 
-![alt text](<localhost_cinema_index.php (1).png>)
+<img width="1731" height="4892" alt="image" src="https://github.com/user-attachments/assets/58c3e11a-1a55-4b6f-bcc7-ebf09b36a1c7" />
+
 
 
 
