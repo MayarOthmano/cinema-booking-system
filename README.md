@@ -112,8 +112,15 @@ Choose movie → Choose showtime → Choose seats → Confirm → Booking saved 
 
 <img width="1731" height="4892" alt="image" src="https://github.com/user-attachments/assets/58c3e11a-1a55-4b6f-bcc7-ebf09b36a1c7" />
 
+<img width="1731" height="1531" alt="image" src="https://github.com/user-attachments/assets/8c97b119-6402-4a38-addf-27283c3e7119" />
 
+<img width="1731" height="1000" alt="image" src="https://github.com/user-attachments/assets/b7a78748-eee2-48a4-9924-5071c714c1e5" />
 
+<img width="1731" height="1731" alt="image" src="https://github.com/user-attachments/assets/7650a170-20e6-4c86-970b-53c3690fecb5" />
+
+<img width="1731" height="1953" alt="image" src="https://github.com/user-attachments/assets/c4b77c63-443d-44d0-a501-d55f7f3eaa3e" />
+
+<img width="1731" height="2238" alt="image" src="https://github.com/user-attachments/assets/9fcb3e32-a988-46b8-8167-db404438c2fa" />
 
 
 ---
