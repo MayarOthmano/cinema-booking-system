@@ -1,0 +1,72 @@
+.navbar{
+    background-color: black;
+    margin:0px;
+    
+    position: sticky;
+    top: 0;
+    z-index: 1000;
+
+
+    
+}
+.navbar-brand{
+    color: #D4AF37;
+    font-size: 30px;
+    font-weight: bold;
+    transition:  0.3s ;
+}
+.navbar-brand:hover{
+    color: #F1D76A;
+}
+.nav-link{
+    color: #F5F5F5;
+    font-size: 16px;
+    font-weight: 500;
+    margin-right: 10px;
+    transition:  0.3s ;
+}
+.nav-link:hover{
+    color:#F1D76A ;
+}
+.navbar .btn{
+padding: 8px 20px;
+margin-left: 10px;
+border-radius: 25px;
+font-size: 16px;
+font-weight: 500;
+transition:  0.3s ;
+}
+.login-btn{
+    background-color: #D4AF37;
+    color:#16090B;
+    border:1px solid #D4AF37;
+}
+.login-btn:hover{
+    background-color: transparent;
+    color:#F1D76A;
+}
+.register-btn {
+    background-color: transparent;
+    color: #F5F5F5;
+    border: 1px solid #D4AF37;
+}
+.logout-btn{
+     background-color: transparent;
+    color: #F5F5F5;
+    border: 1px solid #D4AF37;
+
+}
+
+.register-btn:hover {
+    background-color: #D4AF37;
+    color: #16090B;
+}
+.navbar-toggler {
+    border: 1px solid #D4AF37;
+}
+ .navbar-toggler-icon {/*هون إحنا أعطينا Bootstrap أيقونة ☰ جديدة.*/
+    background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 30 30'%3e%3cpath stroke='%23D4AF37' stroke-linecap='round' stroke-miterlimit='10' stroke-width='2' d='M4 7h22M4 15h22M4 23h22'/%3e%3c/svg%3e");
+}
+.navbar-toggler:focus {
+    box-shadow: 0 0 0 0.15rem rgba(212, 175, 55, 0.3);
+}

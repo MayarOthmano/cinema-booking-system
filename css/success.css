@@ -1,0 +1,168 @@
+body {
+    margin: 0;
+    background-color: #0B0B0B;
+    color: #F5F5F5;
+    font-family: Arial, sans-serif;
+}
+
+
+
+.success-page {
+    width: 90%;
+    max-width: 850px;
+    margin: 0 auto;
+    padding: 70px 0;
+    text-align: center;
+}
+
+
+
+.success-icon {
+    width: 70px;
+    height: 70px;
+
+    margin: 0 auto 20px;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    border: 2px solid #D4AF37;
+    border-radius: 50%;
+
+    color: #D4AF37;
+
+    font-size: 35px;
+    font-weight: bold;
+}
+
+
+
+
+.success-page h1 {
+    margin: 0;
+
+    color: #F5F5F5;
+
+    font-size: 40px;
+    font-weight: bold;
+   
+}
+
+
+.success-message {
+    margin-top: 12px;
+
+    color: #999999;
+
+    font-size: 16px;
+}
+
+
+
+
+.booking-card {
+    margin-top: 45px;
+
+    padding: 35px;
+
+    background-color: #151515;
+
+    border: 1px solid #2A2A2A;
+
+    border-radius: 20px;
+
+    text-align: center;
+  
+}
+
+
+.booking-card h2 {
+    margin: 0 0 25px;
+
+    color: #D4AF37;
+
+    font-size: 24px;
+}
+
+
+
+
+.info-row {
+    display: flex;
+    width: 100%;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: flex-start;
+
+    padding: 16px 0;
+
+    border-bottom: 1px solid #292929;
+}
+
+
+.info-row h3{
+    color: #c5c2c297;
+}
+
+
+.info-row span{
+    color: #b3b1b1;
+    font-weight: 500;
+}
+
+
+.info-row.total{
+    border-bottom: none;
+    margin-top: 10px;
+    font-size: 20px;
+    
+    
+}
+
+
+.info-row.total h3,
+.info-row.total span {
+    color: #D4AF37;
+    font-size: 18px;
+    font-weight: bold;
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+
+
+
+
+.home-btn {
+    display: block;
+
+    width: fit-content;
+
+    margin: 35px auto 0;
+
+    padding: 13px 40px;
+
+    background-color: #D4AF37;
+
+    color: #0B0B0B;
+
+    border-radius: 30px;
+
+    text-decoration: none;
+
+    font-size: 15px;
+    font-weight: bold;
+
+    transition: 0.3s ease;
+}
+
+
+.home-btn:hover {
+    background-color: #F1D76A;
+
+    color: #0B0B0B;
+
+    transform: translateY(-2px);
+
+    box-shadow: 0 8px 20px rgba(212, 175, 55, 0.2);
+}

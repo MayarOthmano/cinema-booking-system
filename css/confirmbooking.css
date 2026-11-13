@@ -1,0 +1,101 @@
+body {
+    margin: 0;
+    background-color: #0B0B0B;
+    color: #F5F5F5;
+    font-family: Arial, sans-serif;
+}
+
+
+.container {
+    width: 90%;
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 70px 0;
+}
+
+
+
+
+
+
+
+h1 {
+    text-align: center;
+    margin: 0;
+    font-size: 40px;
+    color: #F5F5F5;
+    margin-bottom: 20px;
+}
+
+
+
+
+.container .movie-info-container {
+    background-color: #151515;
+    border: 1px solid #2A2A2A;
+    border-radius: 20px;
+    padding: 40px;
+}
+
+
+
+
+.container .movie-info {
+    display: flex;
+    flex-direction: column;
+}
+
+h3 {
+    margin: 0;
+    padding: 18px 0;
+    border-bottom: 1px solid #292929;
+    font-size: 20px;
+    font-weight: 400;
+    color: #D8D8D8;
+}
+
+
+h3:first-child {
+    color: #D4AF37;
+    font-size: 25px;
+    font-weight: bold;
+}
+
+
+
+
+.total-price {
+    color: #D4AF37;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+
+
+
+form {
+    margin-top: 35px;
+    text-align: center;
+}
+
+button {
+    padding: 14px 45px;
+
+    background-color: #D4AF37;
+    color: #0B0B0B;
+
+    border: none;
+    border-radius: 30px;
+
+    font-size: 16px;
+    font-weight: bold;
+
+    
+    transition: 0.3s ease;
+}
+
+button:hover {
+    background-color: #F1D76A;
+    transform: translateY(-2px);
+    box-shadow: 0 8px 20px rgba(212, 175, 55, 0.2);
+}
